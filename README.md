@@ -8,4 +8,4 @@ Sniff out the health risks facing particular demographics by sifting through inf
 
 The data set is based on 2014 ACS 1-year estimates<br/>
 ##Core Assignment: D3 Dabbler (Required Assignment)
-![full_page](images/4-scatter.png).<br/>
+![full_page](images/4-scatter.jpg).<br/>
